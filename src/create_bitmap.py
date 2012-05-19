@@ -8,12 +8,12 @@ import numpy as np
 import math
 
 __author__ = "Aleksandar Mastilovic"
-__copyright__ = "Copyright 2012, BlueKai"
+__copyright__ = "Copyright 2012, Aleksandar Mastilovic"
 __credits__ = ["Aleksandar Mastilovic"]
 __version__ = "1.0.1"
 __maintainer__ = "Aleksandar Mastilovic"
-__email__ = "amastilovic@bluekai.com"
-__status__ = "Production"
+__email__ = "aleksandar.mastilovic@gmail.com"
+__status__ = "Development"
 
 
 logger = logging.getLogger('create_bitmap')
